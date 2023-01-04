@@ -1,2 +1,2 @@
 # pracitce_ml
-Some practice notebooks.
+These are some notebooks on which I have practiced in the past.
